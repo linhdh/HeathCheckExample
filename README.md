@@ -1,0 +1,2 @@
+# HeathCheckExample
+An Angular example.
